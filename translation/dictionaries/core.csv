@@ -1,0 +1,13 @@
+source,target,kind,notes
+"Settings","Настройки",ui,"Example seed; review in-game context"
+"Back","Назад",ui,"Example seed; review for contextual ambiguity"
+"Cancel","Отмена",ui,"Example seed"
+"Confirm","Подтвердить",ui,"Example seed"
+"Save","Сохранить",ui,"Example seed; noun/verb can differ"
+"Load","Загрузить",ui,"Example seed; noun/verb can differ"
+"Stone","Камень",term,"Example seed; inflection depends on phrase"
+"Wood","Дерево",term,"Example seed; material term"
+"Iron","Железо",term,"Example seed; material term"
+"Water","Вода",term,"Example seed"
+"Dwarf","Дворф",term,"Use consistent terminology; subject to project glossary"
+"Fortress","Крепость",term,"Context dependent"
