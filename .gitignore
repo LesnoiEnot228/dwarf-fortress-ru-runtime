@@ -1,0 +1,17 @@
+/build/
+/out/
+/dist/
+*.dll
+*.pdb
+*.obj
+*.o
+*.lib
+*.a
+*.so
+*.log
+.env
+.env.*
+!.env.example
+cache/
+translation-cache/
+user-config.toml
