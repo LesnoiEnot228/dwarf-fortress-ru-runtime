@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "description": "Minimal illustrative transliteration map. Not production-ready; add tested rules for digraphs and language-specific names.",
+  "notes": [
+    "Dictionary exceptions must take precedence over transliteration.",
+    "Process multi-character combinations before single characters.",
+    "Do not apply to placeholders, codes, URLs, or known system terms."
+  ],
+  "digraphs": {
+    "sh": "ш",
+    "ch": "ч",
+    "zh": "ж",
+    "kh": "х",
+    "ts": "ц",
+    "ya": "я",
+    "yu": "ю",
+    "yo": "ё"
+  },
+  "letters": {
+    "a": "а", "b": "б", "c": "к", "d": "д", "e": "е", "f": "ф",
+    "g": "г", "h": "х", "i": "и", "j": "дж", "k": "к", "l": "л",
+    "m": "м", "n": "н", "o": "о", "p": "п", "q": "к", "r": "р",
+    "s": "с", "t": "т", "u": "у", "v": "в", "w": "в", "x": "кс",
+    "y": "й", "z": "з"
+  }
+}
